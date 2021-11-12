@@ -558,7 +558,7 @@ strong {
 
 @media (max-width: 763px) {  
 	.popular-posts-wrapper {
-		flex-direction: column-reverse;
+		flex-direction: column;
 	}
 }
 
