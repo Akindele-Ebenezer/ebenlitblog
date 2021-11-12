@@ -340,7 +340,7 @@ main {
 	padding: 1rem;
 }
 
-.s-1 h1, .logo + h1 {  
+.s-1 h1, .s-1 p, .logo + h1 {  
 	text-align: center;
 }
 
