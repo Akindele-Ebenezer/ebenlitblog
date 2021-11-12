@@ -1,9 +1,11 @@
 <header class="sm-screen-header">
 	<div class="header-sm-screen-top-nav">
-		<div class="sm-screen-logo">
-			<img src="images/company-logo.PNG">
-			<p>EBEN_LIT <br> BLOG</p>		
-		</div>
+		<a href="index.php">
+			<div class="sm-screen-logo">
+				<img src="images/company-logo.PNG">
+				<p>EBEN_LIT <br> BLOG</p>		
+			</div>
+		</a>
 		<div>
 			<img src="images/nav-icon.PNG">
 		</div>
