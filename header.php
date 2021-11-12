@@ -2,7 +2,7 @@
 			<div id="header-1-wrapper">
 				<a href="index.php">
 					<div id="logo">
-						<img src="images/company-logo.png">
+						<img src="images/company-logo.PNG">
 						<p>EBEN_LIT <br> BLOG</p>
 					</div>
 				</a>
