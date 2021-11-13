@@ -6,12 +6,12 @@
 						<p>EBEN_LIT <br> BLOG</p>
 					</div>
 				</a>
-				<div>
+				<div> 
 					<ul>
 						<li><a href="https://www.facebook.com/akindele.ebenezer/" target="_blank"><img src="images/fb.png"></a></li>
 						<li><a href="https://www.instagram.com/ebenezer__/?hl=en" target="_blank"><img src="images/ig.jpg"></a></li>
 						<li><a href="mailto:tobi.akindele@gmail.com" target="_blank"><img src="images/mail.png"></a></li>
-						<li><a href="#"><img src="images/ws.png"></a></li>
+						<li><a href="https://api.whatsapp.com/send?phone=2349052757805"><img src="images/ws.png"></a></li>
 					</ul>
 				</div>
 			</div>
