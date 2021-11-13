@@ -230,10 +230,15 @@ h1, h4 {
     
 .header-sm-screen-top-nav {
 	background: #fff;
+	box-shadow: 1px 1px 19px #ddd;
     display: flex;
     justify-content: space-between;
 } 
  
+.header-sm-screen-top-nav div:last-child {
+	align-self: center;	
+}
+
 input[placeholder="Email Address"], input[placeholder="Search this site..."] {
 	border-color: #eee;
 	border-radius: 1rem;
