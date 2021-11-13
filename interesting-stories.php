@@ -195,7 +195,7 @@
 			</section>
 			<section>
 					<div class="logo">
-						<img src="images/company-logo.png">
+						<img src="images/company-logo.PNG">
 						<p>EBEN_LIT <br> BLOG</p>
 					</div>
 				<h1>POPULAR POSTS</h1>
