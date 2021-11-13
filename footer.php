@@ -11,6 +11,7 @@
 				<div>
 						<ul>
 							<h1>CONTACT</h1>
+							<li><a href="https://api.whatsapp.com/send?phone=2349052757805" target="_blank">WHATSAPP</a></li>
 							<li><a href="mailto:tobi.akindele@gmail.com" target="_blank">GMAIL</a></li>
 							<li><a href="https://www.facebook.com/akindele.ebenezer/" target="_blank">FACEBOOK</a></li>
 							<li><a href="https://www.linkedin.com/in/akindele-ebenezer-566a16b8/">LINKEDIN</a></li>
