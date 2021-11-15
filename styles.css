@@ -508,6 +508,10 @@ strong {
 		margin-top: 17rem;
 		order: 2;
 	}
+	
+	section.section-2-post-reading {
+		margin-top: 17rem;		
+	}
 }
 	
 @media (max-width: 1808px) {
