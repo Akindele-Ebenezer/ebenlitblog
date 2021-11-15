@@ -505,6 +505,7 @@ strong {
 	}
 	
 	section:last-child { 
+		margin-top: 17rem;
 		order: 2;
 	}
 }
