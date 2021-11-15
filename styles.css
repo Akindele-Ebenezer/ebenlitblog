@@ -103,8 +103,7 @@ footer h1 {
 	margin-bottom: .9rem; 
 }
 
-footer + p {   
-	letter-spacing: .2rem;
+footer + p {    
 	padding: 1rem; 
 	text-align: center;
 }
