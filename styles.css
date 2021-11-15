@@ -576,6 +576,10 @@ strong {
 	.lg-screen-header {
 		display: none;
 	}
+	
+	section.section-2-post-reading {
+		margin-top: 12rem;		
+	}
 }
 
 @media (max-width: 763px) {  
