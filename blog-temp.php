@@ -37,7 +37,7 @@
 				</div> 
 			</section>
 			
-			<section class="section-2-post"> 
+			<section class="section-2-post section-2-post-reading"> 
 				<h1><?= $title; ?></h1>
 				<p><?= $date; ?></p>
 				<p>Posted By : <?= $author; ?></p>
