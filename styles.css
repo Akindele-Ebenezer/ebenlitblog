@@ -548,6 +548,10 @@ strong {
 		.s-1:last-child {
 		margin-top: 26rem;
 	}
+	
+	section:last-child {
+	    margin-top: 0; 
+	}
 }
 
 @media (max-width: 1882px) {
