@@ -81,6 +81,10 @@ article a {
 
 .contact-form h1, .contact-form h2 {
 	margin-left: 4rem;
+} 
+
+.drop-arrow {
+	transform: translateY(.3rem);
 }
 
 footer { 
