@@ -629,6 +629,10 @@ strong {
 		color: #fff;
 	}
 	
+	#main-section-2 h1:first-child { 
+		margin-top: 0; 
+	}
+	
 	.sm-screen-header {
 		display: block;
 	}
