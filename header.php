@@ -21,9 +21,9 @@
 			<div id="header-2-wrapper">
 					<ul>
 						<li><a href="index.php">HOME</a></li>
-						<li>CONTACT <img src="images/drop-arrow.png" class="drop-arrow"></li>
+						<li>CONTACT <img src="images/drop-arrow.PNG" class="drop-arrow"></li>
 						<li><a href="about.php">ABOUT</a></li>
-						<li>BLOG <img src="images/drop-arrow.png" class="drop-arrow"></li>
+						<li>BLOG <img src="images/drop-arrow.PNG" class="drop-arrow"></li>
 						<li><a href="articles.php">ARTICLES</a></li>
 					</ul> 			
 			</div>
