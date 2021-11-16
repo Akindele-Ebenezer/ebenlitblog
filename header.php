@@ -34,6 +34,7 @@
 					<li><a href="https://www.facebook.com/akindele.ebenezer/" target="_blank">FACEBOOK</a></li>
 					<li><a href="https://www.linkedin.com/in/akindele-ebenezer-566a16b8/">LINKEDIN</a></li>
 					<li><a href="https://www.instagram.com/ebenezer__/?hl=en" target="_blank">INSTAGRAM</a></li>
+					<li><a href="contact.php">MESSAGE US</a></li>
 				<ul>
 			</div>
 			<div class="drop-down-2 drop-downs">  
