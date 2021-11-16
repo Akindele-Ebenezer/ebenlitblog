@@ -86,6 +86,46 @@ article a {
 .drop-arrow {
 	transform: translateY(.3rem);
 }
+ 
+.drop-down {
+	background: #000;
+	left: 30%;
+	padding: 1rem;
+	position: absolute;
+	top: 8rem;
+	width: 20rem;
+	z-index: 150;
+}
+
+.drop-down-2 {
+	background: #000;
+	left: 50%;
+	padding: 1rem;
+	position: absolute;
+	top: 8rem;
+	width: 20rem;
+	z-index: 150;
+}
+
+.drop-downs {
+	display: none;
+}
+
+.drop-down ul, 
+.drop-down-2 ul,
+.sm-drop-downs ul
+{
+	list-style: none;
+}
+
+.drop-down-2 h1, 
+.drop-down ul li a, 
+.drop-down-2 ul li a,
+.sm-drop-downs h1, 
+.sm-drop-downs ul li a 
+{
+	color: #fff;
+}
 
 footer { 
 	background: #000; 
@@ -454,7 +494,11 @@ section:nth-child(2) a, section:last-child a {
 .section-2-post h4 {
 	padding: .1rem; 
 }
-  
+
+.sm-drop-downs {
+	background: #000;
+	padding: 1rem;
+}  
 .sm-screen-header {
 	display: none;
 }
