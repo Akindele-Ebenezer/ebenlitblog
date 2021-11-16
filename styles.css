@@ -246,7 +246,7 @@ input[placeholder="Email Address"], input[placeholder="Search this site..."] {
 	text-align: center;
 }
  
-input:focus, textarea:focus {
+input:focus {
 	outline: none;
 } 
  
