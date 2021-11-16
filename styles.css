@@ -523,8 +523,7 @@ strong {
 @media (min-width: 1886px) {
 
 	#main-section-2 h1:first-child { 
-		margin-top: 6rem;
-		text-align: center;
+		margin-top: 0; 
 	}
 
 }
