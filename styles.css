@@ -245,7 +245,11 @@ input[placeholder="Email Address"], input[placeholder="Search this site..."] {
 	margin-bottom: 1.5rem;
 	text-align: center;
 }
-
+ 
+input:focus {
+	outline: none;
+} 
+ 
 .lg-screen-header, .sm-screen-header {
 	position: fixed;
 	width: 100%;
