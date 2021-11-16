@@ -569,7 +569,7 @@ strong {
 	}
 	
 	section:last-child { 
-		margin-top: 17rem;
+		margin-top: 0;
 		order: 2;
 	}
 	
