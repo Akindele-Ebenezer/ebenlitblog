@@ -520,6 +520,15 @@ strong {
 	letter-spacing: .2rem;
 }
 
+@media (min-width: 1886px) {
+
+	#main-section-2 h1:first-child { 
+		margin-top: 6rem;
+		text-align: center;
+	}
+
+}
+
 @media (min-width: 1882px) {
 		footer {
 			position: relative;
