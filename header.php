@@ -39,8 +39,8 @@
 			</div>
 			<div class="drop-down-2 drop-downs">  
 				<ul>
-					<li><a href="blog.php">Blog</a></li>
 					<h1>Categories</h1>
+					<li><a href="blog.php">Blog</a></li>
 					<li><a href="poems.php">Poems</a></li>
 					<li>Articles</li>
 					<li><a href="interesting-stories.php">Interesting Stories</a></li>
