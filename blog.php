@@ -12,11 +12,8 @@
 	<style>
 		#header-2-wrapper li:nth-child(4) { 
 			background: var(--blue); 
-		}
-		
-		#header-2-wrapper li:nth-child(4) a { 
-			color: #fff; 
-		}
+			color: #fff;
+		} 
 	</style>
 	<title>BLOG</title>  
 </head>
