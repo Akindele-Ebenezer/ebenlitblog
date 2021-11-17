@@ -381,6 +381,10 @@ main {
 	padding: .1rem;
 }
 
+.popular-posts h4:last-of-type:before {
+	content: "Written By : ";
+}
+
 .popular-posts-img {
 	align-self: center;
 	background: url(images/sunita.jpg);
