@@ -549,6 +549,20 @@ strong {
 
 }
 
+@media (min-width: 1884px) {
+
+	div.s-3 { 
+		position: fixed;
+		right: 0; 
+	}
+	
+	div.s-3 > div {
+		height: 60vh;
+		overflow-y: scroll;
+	}
+
+}
+
 @media (min-width: 1882px) {
 		footer {
 			position: relative;
