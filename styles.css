@@ -16,6 +16,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover { 
+	font-weight: bold;
+}
+
 article { 
 	display: flex; 
 	flex-wrap: wrap;
@@ -280,6 +284,10 @@ h1, h4 {
  
 .header-sm-screen-top-nav div:last-child {
 	align-self: center;	
+}
+
+.header-sm-screen-top-nav div:last-child:hover, .drop-arrow:hover {
+	cursor: pointer;
 }
 
 input[placeholder="Email Address"], input[placeholder="Search this site..."] {
