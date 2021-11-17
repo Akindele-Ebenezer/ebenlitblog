@@ -96,8 +96,8 @@
 						<img src="images/company-logo.PNG">
 						<p>EBEN_LIT <br> BLOG</p>
 					</div>
-				<h1>POPULAR POSTS</h1>
 				<div class="s-3">
+				<h1>POPULAR POSTS</h1>
 					<div>
 						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/roi.jpg);
