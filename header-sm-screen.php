@@ -21,6 +21,7 @@
 			</ul>
 	<div class="sm-drop-down sm-drop-downs">
 		<ul>
+			<h1>Send a DM</h1>
 			<li><a href="https://api.whatsapp.com/send?phone=2349052757805" target="_blank">WHATSAPP</a></li>
 			<li><a href="mailto:tobi.akindele@gmail.com" target="_blank">GMAIL</a></li>
 			<li><a href="https://www.facebook.com/akindele.ebenezer/" target="_blank">FACEBOOK</a></li>
