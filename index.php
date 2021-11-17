@@ -34,10 +34,8 @@
 						<h1>Follow by Email</h1>
 						<p>Get all latest content delivered straight to your inbox.</p>
 						<br>
-					</div>
-					<div>
-						<input type="email" name="email" placeholder="Email Address">
-					</div>
+					</div> 
+						<input type="email" name="email" placeholder="Email Address"> 
 				</div>  
 			</section>
 			<section id="main-section-2">
