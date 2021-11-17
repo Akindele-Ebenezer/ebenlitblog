@@ -239,11 +239,11 @@ h1, h4 {
 #header-2-wrapper li:first-child { 
 	background: var(--blue); 
 }
-*/
+
 #header-2-wrapper li:first-child a:first-child { 
 	color: #fff; 
 }
-
+*/
 #header-2-wrapper ul { 
 	background: #fff;
 	display: flex;
