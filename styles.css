@@ -268,7 +268,7 @@ h1, h4 {
 .header-sm-screen-links li { 
 	color: #fff;
 	letter-spacing: .1rem;
-	padding: .5rem;
+	padding-inline: .5rem;
 }
     
 .header-sm-screen-top-nav {
