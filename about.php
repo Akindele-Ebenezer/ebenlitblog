@@ -10,7 +10,7 @@
 	</style>
 <?php 
 $title = "ABOUT ELB";
-$date = date("l jS \of F Y h:i:s A"); 
+$date = date("l jS \of F Y"); 
 $author = "Akindele Ebenezer";
 $content = "Welcome to <strong>Eben Lit Blog</strong>. This is a community where writers who are skilled in writing articles, interesting stories, poems, blogs etc. post their content to be viewed here on this website. <br><br>
 If you're experienced in writing articles or blogs, you can <a href='contact.php' id='about-link'>send a direct message here</a>, with your content. Your blog will be uploaded instantly to this site. <br><br>
