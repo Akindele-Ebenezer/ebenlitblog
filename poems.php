@@ -188,7 +188,7 @@
 						<p>EBEN_LIT <br> BLOG</p>
 					</div>
 				<div class="s-3">
-				<h1>POPULAR POSTS</h1>
+				<h2>POPULAR POSTS</h2>
 					<div>
 						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/roi.jpg);
