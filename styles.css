@@ -20,6 +20,15 @@ a:hover {
 	font-weight: bold;
 }
 
+#about-link {
+	color: var(--black);
+	background: none;
+	border-radius: 0;
+	box-shadow: none;
+	font-style: italic;
+	padding: 0;
+}
+
 article { 
 	display: flex; 
 	flex-wrap: wrap;
