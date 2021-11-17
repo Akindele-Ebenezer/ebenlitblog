@@ -8,6 +8,15 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500&display=swap" rel="stylesheet">
+	<style>
+		#header-2-wrapper li:nth-child(2) { 
+			background: var(--blue); 
+		}
+		
+		#header-2-wrapper li:nth-child(2) a { 
+			color: #fff; 
+		}
+	</style>
 	<title>Contact Us</title> 
 </head>
 
