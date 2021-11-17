@@ -12,6 +12,19 @@
 	--red: rgba(179, 43, 43);
 }
 
+ 
+::-webkit-scrollbar {
+  width: 7px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: rgba(179, 43, 43); 
+}
+ 
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
 a {
 	text-decoration: none;
 }
