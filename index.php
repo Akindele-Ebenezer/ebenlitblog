@@ -13,6 +13,10 @@
 		#header-2-wrapper li:first-child { 
 			background: var(--blue); 
 		}
+		
+		#header-2-wrapper li:first-child a { 
+			color: #fff; 
+		}
 	</style>
 	<title>Eben_LitBLOG | Homepage</title>  
 </head>
