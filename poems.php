@@ -51,7 +51,7 @@
 							<div class="popular-posts">
 								<h2>DEATH BY NIGHT</h2>
 								<h4>November, 2021</h4>
-								<h4>Roi Peejay</h4>
+								<h4>Curtis Raynard</h4>
 								<p>You said you’d always protect me<br>
 								But it was I that protected you<br>
 								As I lay here naked as can be<br>
