@@ -1,7 +1,23 @@
 <?php 
+include "config.php";
+if(isset($_POST["submit"])) {
+	$first_name = $_POST["first_name"];
+	$last_name = $_POST["last_name"];
+	$comment = $_POST["comment"];
+	$date = $_POST["date"];
+
+	$sql_1 = "INSERT INTO chator_comments (first_name, last_name, comment, date) VALUES ('$first_name', '$last_name', '$comment', '$date');";
+	$query = mysqli_query($conn, $sql_1); 
+}
+
+
+$sql = "SELECT * FROM chator_comments";
+$query = mysqli_query($conn, $sql);
+$result = mysqli_fetch_all($query, MYSQLI_ASSOC);
+
 $title = "A DREAM";
 $date = "10/25/2021";
-$author = "Sunita Grover Raina";
+$author = "Chator Peace";
 $content = "I had a dream
 Where life was beyond the realm
 Shared in sections and themes

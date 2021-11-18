@@ -48,9 +48,8 @@
 				</div>  
 			</section>
 			<section id="main-section-2">
-				
-			<!-- Ads -->
-				
+			
+			<!-- Some slide images here -->
 				<h1>Latest Blog Posts </h1>
 					<div>
 							

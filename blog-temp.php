@@ -1,3 +1,7 @@
+<?php
+error_reporting(0);
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -50,19 +54,28 @@
 						<p>Leave a comment</p>
 						<input type="text" name="first_name" placeholder="First Name"> <br>
 						<input type="text" name="last_name" placeholder="Last Name"> <br>
+						Date/Time <br> <input type="datetime-local" name="date"> <br>
 						<textarea name="comment" placeholder="Write your comment..."></textarea>
 						<br>
-						<button type="submit">Comment</button>
+						<button type="submit" name="submit">Comment</button>
 					</div>
 					
-					<div class="comments">
-						<div>
-							<img src="#">
-							<h2><?php $comment_person_name; ?></h2>
-							<p><?php $comment_date_time; ?></p>
-							<p><?php $comment; ?></p>
-						</div>
-					</div>
+					<?php  
+						foreach($result as $comment) : ?>
+							 
+									<div class='comments'>
+										<div>
+											<img src='#'>
+											<h2><?= $comment["first_name"] . " " . $comment["last_name"]; ?></h2>
+											<p><?= $comment["date"]; ?></p>
+											<p><?= $comment["comment"]; ?></p>
+										</div>
+									</div>
+									  
+					<?php   
+						endforeach;
+					?>
+					 
 				</form>
 			</section>
 			

@@ -1,4 +1,20 @@
 <?php 
+include "config.php";
+if(isset($_POST["submit"])) {
+	$first_name = $_POST["first_name"];
+	$last_name = $_POST["last_name"];
+	$comment = $_POST["comment"];
+	$date = $_POST["date"];
+
+	$sql_1 = "INSERT INTO ola_mi_kun_comments (first_name, last_name, comment, date) VALUES ('$first_name', '$last_name', '$comment', '$date');";
+	$query = mysqli_query($conn, $sql_1); 
+}
+
+
+$sql = "SELECT * FROM ola_mi_kun_comments";
+$query = mysqli_query($conn, $sql);
+$result = mysqli_fetch_all($query, MYSQLI_ASSOC);
+ 
 $title = "IN LOVE WITH A RUTHLESS MAFIA LORD (EPISODE 1)";
 $date = "October 20, 2021";
 $author = "Ola Mi Kun";

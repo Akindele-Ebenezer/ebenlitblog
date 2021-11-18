@@ -1,4 +1,20 @@
 <?php 
+include "config.php";
+if(isset($_POST["submit"])) {
+	$first_name = $_POST["first_name"];
+	$last_name = $_POST["last_name"];
+	$comment = $_POST["comment"];
+	$date = $_POST["date"];
+
+	$sql_1 = "INSERT INTO shipra_prajapati_comments (first_name, last_name, comment, date) VALUES ('$first_name', '$last_name', '$comment', '$date');";
+	$query = mysqli_query($conn, $sql_1); 
+}
+
+
+$sql = "SELECT * FROM shipra_prajapati_comments";
+$query = mysqli_query($conn, $sql);
+$result = mysqli_fetch_all($query, MYSQLI_ASSOC);
+ 
 $title = "WONDERING WHY IPHONE WON'T CONNECT TO WI-FI? READ THIS GUIDE";
 $date = "October 2021";
 $author = "Shipra Prajapati";
