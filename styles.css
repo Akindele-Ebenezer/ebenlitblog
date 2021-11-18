@@ -560,9 +560,9 @@ strong {
 		margin-top: 0; 
 	}
 
-}
+} 
 
-@media (min-width: 1884px) {
+@media (min-width: 1883px) {
 
 	div.s-3 { 
 		position: fixed;
@@ -573,10 +573,6 @@ strong {
 		height: 60vh;
 		overflow-y: scroll;
 	}
-
-}
-
-@media (min-width: 1882px) {
 		footer {
 			position: relative;
 			z-index: 10;			
@@ -625,8 +621,8 @@ strong {
 		margin-top: 17rem;		
 	}
 }
-	
-@media (max-width: 1808px) {
+ 
+@media (max-width: 1882px) {
 	article {
 		justify-content: center;
 		margin-top: 10rem;
