@@ -57,6 +57,22 @@ article a {
 	letter-spacing: .1rem;
 }
 
+.comments {
+	margin-block: 1.5rem;
+}
+
+.comments h2 {
+	background: #eee;
+	border-radius: .5rem;
+	padding: .5rem;
+	text-transform: capitalize;
+}
+
+.comment-section p {
+	font-size: 2rem;
+	font-family: cursive;
+}
+ 
 .comment-section input {
 	border: 1px solid var(--blue);
 	border-radius: .5rem; 
