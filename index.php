@@ -290,11 +290,7 @@
 						</div>
 					</div> 
 				
-			</section>		
-				<div class="ads">
-					<a target="_blank" href="https://kol.jumia.com/api/click/banner/fb5361d9-79e5-4021-9c50-1c9832a40e8a/0c12b719-508a-47dc-9fc7-32721498ad1a"><img src="https://kol.jumia.com/banners/Up8gb9vboMlv6VI9HSorZxxcFd97CHtt5BKWOc3P.jpg" alt="Health and beauty category"/></a>
-				</div>
-					<!-- Some slide images here -->
+			</section>	
 			<section>
 					<div class="logo">
 						<img src="images/company-logo.PNG">
@@ -322,7 +318,11 @@
 									</p>
 								<p><a href="roi.php">Continue reading --></a></p>
 							</div>
-						</div>
+						</div>	
+				<div class="ads">
+					<a target="_blank" href="https://kol.jumia.com/api/click/banner/fb5361d9-79e5-4021-9c50-1c9832a40e8a/0c12b719-508a-47dc-9fc7-32721498ad1a"><img src="https://kol.jumia.com/banners/Up8gb9vboMlv6VI9HSorZxxcFd97CHtt5BKWOc3P.jpg" alt="Health and beauty category"/></a>
+				</div>
+					<!-- Some slide images here -->
 						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/Chijioke.jpg);
 																background-size: cover;
