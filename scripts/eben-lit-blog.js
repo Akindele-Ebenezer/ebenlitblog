@@ -23,5 +23,13 @@ contactDropArrow2.addEventListener("click", () => {
 	dropDown2.classList.toggle("block");
 });
 
+const article = document.querySelector("article"); 
+
+article.addEventListener("click", () => {
+	dropDown.classList.remove("block");
+	dropDown2.classList.remove("block");
+	headerSmScreenLinks.classList.remove("block");
+});
+
 
  
