@@ -48,6 +48,11 @@ a:hover {
 	margin-block: 3rem;
 }
 
+.ads a {
+	background: #fff;
+	width: 8rem;	
+}
+
 .ads img {
 	width: 15rem;	
 }
