@@ -49,7 +49,7 @@ a:hover {
 }
 
 .ads a {
-	background: #fff;
+	background: #fff !important;
 	width: 8rem;	
 }
 
