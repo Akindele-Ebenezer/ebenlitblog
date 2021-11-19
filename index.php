@@ -130,7 +130,7 @@
 							</div>
 						</div>		
 				<div class="ads">
-					<a href="https://kol.jumia.com/api/click/banner/fb5361d9-79e5-4021-9c50-1c9832a40e8a/27adcbb3-1e9a-4fad-9037-28898c07c142"><img src="https://kol.jumia.com/banners/yhBVu9dAUl5PGJUuht08kZcDiMSSbVQib6HDPSY1.jpeg" alt="Computing Category"/></a>				
+					<a target="_blank" href="https://kol.jumia.com/api/click/banner/fb5361d9-79e5-4021-9c50-1c9832a40e8a/27adcbb3-1e9a-4fad-9037-28898c07c142"><img src="https://kol.jumia.com/banners/yhBVu9dAUl5PGJUuht08kZcDiMSSbVQib6HDPSY1.jpeg" alt="Computing Category"/></a>				
 				</div>
 					<!-- Some slide images here -->
 						<div class="popular-posts-wrapper">
@@ -211,7 +211,11 @@
 								So what I told him has been summarized in this article. I wanted to share it with you. Maybe you may get some value too....</p>
 								<p><a href="koffi.php">Continue reading --></a></p>
 							</div>
-						</div> 	
+						</div> 		
+				<div class="ads">
+					<a target="_blank" href="https://kol.jumia.com/api/click/banner/fb5361d9-79e5-4021-9c50-1c9832a40e8a/1684459a-3792-4b4b-944b-efa3805ad2d1"><img src="https://kol.jumia.com/banners/BMKxOt7pmxbAlB8BP7nK672L9cOsgVxvb5hbLe7l.jpg" alt="Everyday Deals"/></a>				
+				</div>
+					<!-- Some slide images here -->	
 						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/orji.jpg);
 																background-size: cover;
