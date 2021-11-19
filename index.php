@@ -48,8 +48,10 @@
 				</div>  
 			</section>
 			<section id="main-section-2">
-			<a href="https://kol.jumia.com/api/click/banner/fb5361d9-79e5-4021-9c50-1c9832a40e8a/08103aea-a1a0-487f-bd06-57b83cb7c09d"><img src="https://kol.jumia.com/banners/hlDB0JiuTf8V9CYmzkYuV78k6EDQQDhC9G7OKoWY.jpg" alt="Jumia Black Friday Top Categories"/></a>
-			<!-- Some slide images here -->
+				<div class="ads">
+					<a href="https://kol.jumia.com/api/click/banner/fb5361d9-79e5-4021-9c50-1c9832a40e8a/08103aea-a1a0-487f-bd06-57b83cb7c09d"><img src="https://kol.jumia.com/banners/hlDB0JiuTf8V9CYmzkYuV78k6EDQQDhC9G7OKoWY.jpg" alt="Jumia Black Friday Top Categories"/></a>
+				</div>
+					<!-- Some slide images here -->
 				<h1>Latest Blog Posts </h1>
 					<div>
 							
