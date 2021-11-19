@@ -128,7 +128,11 @@
 								<p>Let me tell you a short story. Vitalis was good in science from secondary school but he had always admired and loved teaching all through his life. Unlike other children his age, he loved watching documentaries of great teachers and even taking notes while watching, he had this dream of building his own school one day. But! His dad said he must study medicine.. His mum forced him to apply for medicine.. His dad once caught him watching a documentary video he bought from his savings, but daddy confiscated it and broke it into pieces. Prak! Prak! Prak!</p>
 								<p><a href="chijioke.php">Continue reading --></a></p>
 							</div>
-						</div>
+						</div>		
+				<div class="ads">
+					<a href="https://kol.jumia.com/api/click/banner/fb5361d9-79e5-4021-9c50-1c9832a40e8a/27adcbb3-1e9a-4fad-9037-28898c07c142"><img src="https://kol.jumia.com/banners/yhBVu9dAUl5PGJUuht08kZcDiMSSbVQib6HDPSY1.jpeg" alt="Computing Category"/></a>				
+				</div>
+					<!-- Some slide images here -->
 						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/Chijioke2.jpg);
 																background-size: cover;
