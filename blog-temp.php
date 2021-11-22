@@ -51,10 +51,10 @@ error_reporting(0);
 				<form action="<?= $_SERVER['PHP_SELF']; ?>" method="post">
 					<div class="comment-section">
 						<br><hr>
-						<h1>Leave a comment</h1>
+						<p>Leave a comment</p>
 						<input type="text" name="first_name" placeholder="First Name" required> <br>
-						<input type="text" name="last_name" placeholder="Last Name" required> <br>
-						Date/Time <br> <input type="datetime-local" name="date" required> <br>
+						<input type="text" name="last_name" placeholder="Last Name" required> 
+						<input type="hidden" name="date" required> <br>
 						<textarea name="comment" placeholder="Write your comment..." required></textarea>
 						<br>
 						<button type="submit" name="submit">Comment</button>
