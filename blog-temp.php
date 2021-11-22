@@ -63,9 +63,12 @@ error_reporting(0);
 					<?php  
 						foreach($result as $comment) : ?>
 							 
+									
 									<div class='comments'>
 										<div>
-											<img src='#'>
+											<h3><?= $comment["first_name"][0] . $comment["last_name"][0]; ?></h3>										
+										</div>
+										<div>
 											<h2><?= $comment["first_name"] . " " . $comment["last_name"]; ?></h2>
 											<p><?= $comment["date"]; ?></p>
 											<p><?= $comment["comment"]; ?></p>
