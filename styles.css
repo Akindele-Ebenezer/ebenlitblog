@@ -576,6 +576,14 @@ section:nth-child(2) a, section:last-child a {
 	padding: .1rem; 
 }
 
+.section-2-post p:first-of-type {
+	font-size: small; 
+}
+
+.section-2-post p:last-child {
+	font-weight: bold; 
+}
+
 .sm-drop-downs {
 	background: #000;
 	padding: 1rem;
