@@ -108,6 +108,11 @@ article a {
 	width: 18.5rem;
 }
 
+.comment-section p {
+	font-family: cursive;
+	font-size: x-large !important;
+}
+
 .contact-form { 
 	display: flex; 
 	justify-content: center;
