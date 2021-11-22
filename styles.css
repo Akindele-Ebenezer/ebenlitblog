@@ -98,12 +98,7 @@ article a {
 	letter-spacing: .3rem;
 	padding: 1rem;
 }
-
-.comment-section p {
-	font-size: 2rem;
-	font-family: cursive;
-}
- 
+  
 .comment-section input {
 	border: 1px solid var(--blue);
 	border-radius: .5rem; 
