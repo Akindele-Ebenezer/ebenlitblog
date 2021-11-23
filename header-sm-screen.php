@@ -3,7 +3,7 @@
 		<a href="index.php">
 			<div class="sm-screen-logo">
 				<img src="images/company-logo.PNG">
-				<p>EBEN_LIT <br> BLOG</p>		
+				<p>WRITERS <br> Crib</p>		
 			</div>
 		</a>
 		<div>
