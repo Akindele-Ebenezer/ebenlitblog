@@ -18,7 +18,7 @@
 			color: #fff; 
 		}
 	</style>
-	<title>Eben_LitBLOG | Homepage</title>  
+	<title>WRITERS CRIB</title>  
 </head>
 
 <body>
