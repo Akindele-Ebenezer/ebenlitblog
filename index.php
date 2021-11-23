@@ -18,7 +18,7 @@
 			color: #fff; 
 		}
 	</style>
-	<title>WRITERS CRIB</title>  
+	<title>W R I T E R S C r i b</title>  
 </head>
 
 <body>
