@@ -18,7 +18,7 @@
 			color: #fff; 
 		}
 	</style>
-	<title>W R I T E R S C r i b</title>  
+	<title>W R I T E R S Crib</title>  
 </head>
 
 <body>
