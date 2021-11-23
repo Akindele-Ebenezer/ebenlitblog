@@ -6,7 +6,7 @@
 				<a href="index.php">
 					<div id="logo">
 						<img src="images/company-logo.PNG">
-						<p>EBEN_LIT <br> BLOG</p>
+						<p>WRITERS <br> CRIB</p>
 					</div>
 				</a>
 				<div> 
