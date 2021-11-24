@@ -22,7 +22,7 @@
 		<article>
 			<section>
 				<div class="s-1"> 
-					<input type="text" placeholder="Search this site...">
+					<input type="search" class="search" placeholder="Search this site...">
 					<ul>
 						<h1>Categories</h1>
 						<li><a href="poems.php">Poems</a></li>
