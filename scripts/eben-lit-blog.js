@@ -34,7 +34,7 @@ article.addEventListener("click", () => {
 const search = document.querySelector(".search");
 
 let searchValues = ()=> {
-	if(search.value === "poems") {
+	if(search.value === "poems" || search.value === "Poems" || search.value === "POEMS") {
 		window.open("poems.php");
 	} else {
 		window.open("not-found.php");
