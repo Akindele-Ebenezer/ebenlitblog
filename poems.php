@@ -9,7 +9,7 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500&display=swap" rel="stylesheet">
-	<title>Eben_LitBLOG | Poems</title>  
+	<title>W R I T E R S Crib  | Poems</title>  
 </head>
 
 <body>
