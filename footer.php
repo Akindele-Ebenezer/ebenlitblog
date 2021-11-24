@@ -25,5 +25,5 @@
 				</div>
 				<script src="scripts/eben-lit-blog.js"></script>
 		</footer>
-		<p>Copyright 2021 <strong>&copy;AKINDELE EBENEZER OLUWATOBI.</strong> All rights reserved.</p>
+		<p>Copyright 2021 <strong>&copy;WRITERS Crib.</strong> All rights reserved.</p>
 	
