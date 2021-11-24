@@ -63,6 +63,22 @@ error_reporting(0);
 					</div>
 					
 					<?php  
+					$total = 0;
+					foreach($result as $number_of_comments) {
+						$total++;
+					} 
+					switch($total) {
+						case 0:
+						echo "<p>No Comment</p> <hr>";
+						break;
+						case 1:
+						echo "<p>1 Comment</p> <hr>";
+						break;
+						default:
+						echo "<p>$total Comments</p> <hr>";
+						break;
+					}
+						
 						foreach($result as $comment) : ?>
 							 
 									
