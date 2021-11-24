@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 	<meta name="description" content="Writers Crib is a community where writers who are skilled in writing articles, interesting stories, poems, blogs etc. post their content to be viewed here on this website.">
+	<meta name="keywords" content="poems, articles, stories, interesting stories, blog, writers, posts, fiction">
 	<link rel="icon" href="images/company-logo.PNG">
 	<link rel="stylesheet" href="styles.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
