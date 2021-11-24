@@ -17,7 +17,7 @@ $query = mysqli_query($conn, $sql);
 
 $author = "Ebenezer";
 $title = "Message Sent Successfully...";
-$content = "$first_name $last_name, We'll get back to you as soon as possible. Keep sending your contents, luckily yours will be picked and be uploaded. <br><br>EXPLORE... <br>Look up professional writers with skiils.";
+$content = "$first_name $last_name, We'll get back to you as soon as possible. Keep sending your contents, luckily yours will be selected and be uploaded. <br><br>EXPLORE... <br>Look up professional writers with skiils.";
 
 include "blog-temp.php";
 ?>
