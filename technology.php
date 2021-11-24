@@ -94,7 +94,7 @@
 			<section>
 					<div class="logo">
 						<img src="images/company-logo.PNG">
-						<p>EBEN_LIT <br> BLOG</p>
+						<p>WRITERS <br> Crib</p>
 					</div>
 				<div class="s-3">
 				<h2>POPULAR POSTS</h2>
