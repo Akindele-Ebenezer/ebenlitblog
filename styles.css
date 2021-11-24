@@ -108,7 +108,7 @@ article a {
 	width: 18.5rem;
 }
 
-.comment-section p { 
+.comment-section p, .comment-section ~ p { 
 	font-size: x-large !important;
 }
 
