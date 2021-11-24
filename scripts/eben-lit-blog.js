@@ -30,6 +30,18 @@ article.addEventListener("click", () => {
 	dropDown2.classList.remove("block");
 	headerSmScreenLinks.classList.remove("block");
 });
+ 
+const search = document.querySelector(".search");
+
+let searchValues = ()=> {
+	if(search.value === "poems") {
+		window.open("poems.php");
+	} else {
+		window.open("not-found.php");
+	}
+}
+
+search.addEventListener("change", searchValues);
 
 
  
