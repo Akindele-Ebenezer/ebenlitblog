@@ -9,7 +9,7 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500&display=swap" rel="stylesheet">
-	<title>Eben_LitBLOG | Interesting Stories</title>  
+	<title>W R I T E R S Crib | Interesting Stories</title>  
 </head>
 
 <body>
@@ -196,7 +196,7 @@
 			<section>
 					<div class="logo">
 						<img src="images/company-logo.PNG">
-						<p>EBEN_LIT <br> BLOG</p>
+						<p>WRITERS <br> Crib</p>
 					</div>
 				<div class="s-3">
 				<h2>POPULAR POSTS</h2>
