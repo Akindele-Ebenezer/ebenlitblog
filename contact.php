@@ -24,17 +24,17 @@
 		<?php include "header.php"; ?>
 		
 		<div class="contact-form">
-			<form action="#" method="post">
+			<form action="message-success.php" method="post">
 				<div>
 					<h1>CONTACT US</h1>
 					<h2>Fill out the form below to learn more!</h2>
 				</div>
-				<div>
+				<div> 
 					<input type="text" name="first_name" placeholder="First Name"> 
 					<input type="text" name="last_name" placeholder="Last Name"> <br>
 					<input type="email" name="email" placeholder="Email"> <br>
 					<textarea name="contact_message" placeholder="Write your message"></textarea> <br>
-					<button type="submit">Submit</button>
+					<button type="submit" name="submit">Submit</button>
 				</div>
 			</form>
 		</div>
