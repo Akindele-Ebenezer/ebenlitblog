@@ -36,6 +36,8 @@ const search = document.querySelector(".search");
 let searchValues = ()=> {
 	if(search.value === "poems" || search.value === "Poems" || search.value === "POEMS") {
 		window.open("poems.php");
+	} else if(search.value === "stories" || search.value === "story" || search.value === "STORIES"|| search.value === "STORY"|| search.value === "INTERESTING STORIES"|| search.value === "interesting stories"|| search.value === "Interesting Stories") {
+		window.open("interesting-stories.php");
 	} else {
 		window.open("not-found.php");
 	}
