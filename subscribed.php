@@ -8,7 +8,7 @@ include "config.php";
 if(isset($_POST["submit"])) {  
 	$email = $_POST["email"];
 
-	$sql_inbox = "INSERT INTO admin_inbox_subcribers (email, date) VALUES ('$email', now());";
+	$sql_inbox = "INSERT INTO admin_inbox_subscribers (email, date) VALUES ('$email', now());";
 	$query_inbox = mysqli_query($conn, $sql_inbox);
 }
 
