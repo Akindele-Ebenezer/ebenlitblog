@@ -110,7 +110,7 @@
 							<div class="popular-posts">
 								<h2>MISERY</h2>
 								<h4>November, 2021</h4>
-								<h4>Tina Rizk</h4>
+								<h4>JBM</h4>
 								<p>Let's return to our eternity, my love<br>
 								And continue to the paradise of the first unity<br>
 								The world of the first encounter<br>
