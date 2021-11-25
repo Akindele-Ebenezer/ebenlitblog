@@ -35,7 +35,7 @@ error_reporting(0);
 						<li><a href="technology.php">Technology</a></li>			
 					</ul>
 				</div>
-				<form action="subcribed.php" method="post">
+				<form action="subscribed.php" method="post">
 					<div class="s-1">
 						<div>
 							<h1>Follow by Email</h1>
