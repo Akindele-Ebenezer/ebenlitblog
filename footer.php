@@ -1,3 +1,8 @@
+<style>
+	footer { 
+	    margin-top: 3rem;
+	}
+</style>
 		<footer> 
 				<div>
 						<ul>
