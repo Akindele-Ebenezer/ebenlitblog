@@ -36,7 +36,9 @@
 					<p>Get all latest content delivered straight to your inbox.</p>
 					<br>
 
-					<input type="email" name="email" placeholder="Email Address">
+					<input type="email" name="email" placeholder="Email Address"> 
+						<br>
+						<p>Subscribe</p>
 				</div>  
 			</section>
 			<section id="main-section-2">
