@@ -472,6 +472,10 @@ main {
 	padding: 1rem;
 }
 
+.s-1 button {
+	width: 15.3rem;
+}
+
 .s-1 h1, .s-1 p, .logo + h1 {  
 	text-align: center;
 }
