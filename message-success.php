@@ -10,8 +10,8 @@ if(isset($_POST["submit"])) {
 	$last_name = $_POST["last_name"];
 	$message = $_POST["contact_message"]; 
 	$email = $_POST["email"];
-$sql = "INSERT INTO admin_inbox (first_name, last_name, message, date, email) VALUES ('$first_name', '$last_name', '$message', now(), '$email');";
-$query = mysqli_query($conn, $sql);
+$sql_inbox = "INSERT INTO admin_inbox (first_name, last_name, message, date, email) VALUES ('$first_name', '$last_name', '$message', now(), '$email');";
+$query_inbox = mysqli_query($conn, $sql_inbox);
 }
 
 
