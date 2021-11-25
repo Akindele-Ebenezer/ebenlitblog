@@ -555,7 +555,7 @@ section:nth-child(2) {
 	margin-top: 10rem;	
 }
 
-section:nth-child(2) a, section:last-child a {
+section:nth-child(2) a, section:last-child a, .s-1 p:last-child {
     color: #fff;
     background: var(--blue);
     border-radius: .5rem; 
