@@ -35,14 +35,18 @@ error_reporting(0);
 						<li><a href="technology.php">Technology</a></li>			
 					</ul>
 				</div>
-				<div class="s-1">
-					<h2>Follow by Email</h2>
-					<p>Get all latest content delivered straight to your inbox.</p>
-					<br>
-					<input type="email" name="email" placeholder="Email Address"> 
-						<br>
-						<p>Subscribe</p>
-				</div> 
+				<form action="subcribed.php" method="post">
+					<div class="s-1">
+						<div>
+							<h1>Follow by Email</h1>
+							<p>Get all latest content delivered straight to your inbox.</p>
+							<br>
+						</div> 
+							<input type="email" name="email" placeholder="Email Address"> 
+							<br>
+							<button type="submit" name="submit">Subscribe</button>
+					</div>  
+				</form>
 			</section>
 			
 			<section class="section-2-post section-2-post-reading"> 
