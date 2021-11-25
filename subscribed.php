@@ -5,7 +5,7 @@
 </style>
 <?php
 include "config.php";
-if(isset($_POST["email"])) {  
+if(isset($_POST["submit"])) {  
 	$email = $_POST["email"];
 
 	$sql_inbox = "INSERT INTO admin_inbox_subcribers (email) VALUES ('$email');";
