@@ -48,7 +48,7 @@
 					</div> 
 						<input type="email" name="email" placeholder="Email Address"> 
 						<br>
-						<p>Continue reading --&gt;</p>
+						<p>Subscribe</p>
 				</div>  
 			</section>
 			<section id="main-section-2">
