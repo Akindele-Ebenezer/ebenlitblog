@@ -37,7 +37,7 @@ $query = mysqli_query($conn, $sql);
 		<?php include "header.php"; ?>
 		
 		<div class="contact-form">
-			<form action="message-success.php" method="post">
+			<form action="<?= $_SERVER['PHP_SELF']; ?>" method="post">
 				<div>
 					<h1>CONTACT US</h1>
 					<h2>Fill out the form below to learn more!</h2>
