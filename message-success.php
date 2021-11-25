@@ -8,7 +8,7 @@ include "config.php";
 if(isset($_POST["submit"])) {
 	$first_name = $_POST["first_name"];
 	$last_name = $_POST["last_name"];
-	$message = mysql_real_escape_string($conn, $_POST["contact_message"]); 
+	$message = $_POST["contact_message"]; 
 	$email = $_POST["email"];
 
 	$sql_inbox = "INSERT INTO admin_inbox (first_name, last_name, message, date, email) VALUES ('$first_name', '$last_name', '$message', now(), '$email');";
