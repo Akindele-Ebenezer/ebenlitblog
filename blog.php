@@ -178,7 +178,7 @@
 								Me, Chijioke Otikpa..
 								I had trekked all the way from Eke amobi to Nkwo the day before, just to buy her a gift that will make her happy.
 								...</p>
-								<p><a href="Chijioke2.php">Continue reading --></a></p>
+								<p><a href="chijioke2.php">Continue reading --></a></p>
 							</div>
 						</div>	
 						<div class="popular-posts-wrapper">
