@@ -9,7 +9,7 @@
 		}
 	</style>
 <?php 
-$title = "ABOUT ELB";
+$title = "ABOUT";
 $date = date("l jS \of F Y"); 
 $author = "Akindele Ebenezer";
 $content = "Welcome to <strong>WRITERS Crib</strong>. This is a community where writers who are skilled in writing articles, interesting stories, poems, blogs etc. post their content to be viewed here on this website. <br><br>
