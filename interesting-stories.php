@@ -199,6 +199,30 @@
 						</div>   			
 					</div> 
 				
+						<div class="popular-posts-wrapper">
+							<div class="popular-posts-img" style="background: url(images/favour-ekenna.jpg);
+																background-size: cover;
+																background-position: center;
+																width: 20rem;
+																height: 15rem;">
+								<img src="images/favour-ekenna.jpg">
+							</div>
+							<div class="popular-posts">
+								<h2>OIL</h2>
+								<h4>11/26/2021</h4>
+								<h4>Favour Ekenna</h4>
+								<p>
+									'𝘖𝘶𝘤𝘩!!'
+									'𝘞𝘦𝘵𝘪𝘯 𝘣𝘦 𝘵𝘩𝘢𝘵.?'  He asked me without looking back.
+									'𝘛𝘩𝘦𝘴𝘦 𝘱𝘰𝘵𝘩𝘰𝘭𝘦𝘴!'  I said with my eyes shut in pain, as I tried to endure the sharp pain on my waist.
+									I looked ahead. I saw more potholes.
+									More Potholes!!
+									More glorious potholes!!!
+								<p>
+								<a href="favour-ekenna.php">Continue reading --></a></p>
+							</div>
+						</div>
+				
 			</section>
 			<section>
 					<div class="logo">
