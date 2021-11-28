@@ -11,7 +11,8 @@
 
   gtag('config', 'UA-213761854-1');
 </script>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4278961694460844"
+     crossorigin="anonymous"></script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 	<meta name="description" content="Writers Crib is a community where writers who are skilled in writing articles, interesting stories, poems, blogs etc. post their content to be viewed here on this website.">
