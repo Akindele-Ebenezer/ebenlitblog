@@ -68,6 +68,28 @@
 				<h1>Latest Blog Posts </h1>
 					<div>
 						<div class="popular-posts-wrapper">
+							<div class="popular-posts-img" style="background: url(images/tina-2.jpg);
+																background-size: cover;
+																background-position: center;
+																width: 20rem;
+																height: 15rem;">
+								<img src="images/tina-2.jpg">
+							</div>
+							<div class="popular-posts">
+								<h2>THE MORE I GROW</h2>
+								<h4>11/27/2021</h4>
+								<h4>Tina Rizk</h4>
+								<p>
+									The more I grow <br>
+									The more I enjoy being alone <br>
+									I am not keen in fake courtesy <br>
+									And dread hidden hypocrisy <br>
+									The more I grow...
+								<p>
+								<a href="tina-2.php">Continue reading --></a></p>
+							</div>
+						</div>
+						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/favour-ekenna.jpg);
 																background-size: cover;
 																background-position: center;
