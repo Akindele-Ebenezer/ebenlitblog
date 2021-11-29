@@ -44,7 +44,7 @@
 				</div>  
 			</section>
 			<section id="main-section-2">
-				<h1>BLOG</h1>
+				<h1>Unique Posts</h1>
 					<div> 
 						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/Antoniette.jpg);
