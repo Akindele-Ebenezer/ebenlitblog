@@ -23,7 +23,7 @@
 						<li><a href="index.php">HOME</a></li>
 						<li>CONTACT <img src="images/drop-arrow.PNG" class="drop-arrow"></li>
 						<li><a href="about.php">ABOUT</a></li>
-						<li>BLOG <img src="images/drop-arrow.PNG" class="drop-arrow"></li>
+						<li>UNIQUE POSTS <img src="images/drop-arrow.PNG" class="drop-arrow"></li>
 						<li><a href="articles.php">ARTICLES</a></li>
 					</ul> 			
 			</div>
@@ -40,7 +40,7 @@
 			<div class="drop-down-2 drop-downs">  
 				<ul>
 					<h1>Categories</h1>
-					<li><a href="blog.php">Blog</a></li>
+					<li><a href="blog.php">Unique Posts</a></li>
 					<li><a href="poems.php">Poems</a></li>
 					<li>Articles</li>
 					<li><a href="interesting-stories.php">Interesting Stories</a></li>
