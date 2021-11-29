@@ -16,7 +16,7 @@
 				<li><a href="index.php">HOME</a></li>
 				<li><a href="contact.php">CONTACT</a></li>
 				<li><a href="about.php">ABOUT</a></li>
-				<li><a href="blog.php">BLOG</a></li>
+				<li><a href="blog.php">UNIQUE POSTS</a></li>
 				<li><a href="articles.php">ARTICLES</a></li>
 			</ul>
 	<div class="sm-drop-down sm-drop-downs">
