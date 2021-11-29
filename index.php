@@ -65,7 +65,7 @@
 				</form>
 			</section>
 			<section id="main-section-2">
-				<h1>Latest Blog Posts </h1>
+				<h1>Latest Posts </h1>
 					<div>
 						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/tina-2.jpg);
