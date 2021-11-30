@@ -158,6 +158,30 @@
 							</div>
 						</div>	
 						<div class="popular-posts-wrapper">
+							<div class="popular-posts-img" style="background: url(images/rukayat.jpg);
+																background-size: cover;
+																background-position: center;
+																width: 20rem;
+																height: 15rem;">
+								<img src="images/rukayat.jpg">
+							</div>
+							<div class="popular-posts">
+								<h2>BROKEN</h2>
+								<h4>11/30/2021</h4>
+								<h4>Rukayat</h4>
+								<p>
+									My head is burning out
+									Am lost in thought
+									Drenched in the dark
+									Drowning in the ocean of sorrow and pain
+									How could I mend a broken heart
+									Wish all this could leave me
+									But the pain won''t let me be...
+								<p>
+								<a href="rukayat.php">Continue reading --></a></p>
+							</div>
+						</div>
+						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/tina3.jpg);
 																background-size: cover;
 																background-position: center;
