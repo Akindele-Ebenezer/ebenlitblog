@@ -470,9 +470,9 @@ main {
 
 .s-1 {
 	align-items: center;
-	display: flex;
-	flex-direction: column;
-	padding: 1rem;
+	/*display: flex;*/
+	/*flex-direction: column;*/
+	/*padding: 1rem;*/
 }
 
 .s-1 button {
