@@ -54,7 +54,7 @@ error_reporting(0);
 							<p>Get all latest content delivered straight to your inbox.</p>
 							<br>
 						</div> 
-							<input type="email" name="email" placeholder="Email Address"> 
+							<input type="email" name="email" placeholder="Email Address" required> 
 							<br>
 							<button type="submit" name="submit">Subscribe</button>
 					</div>  
