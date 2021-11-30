@@ -19,29 +19,28 @@ $title = "THE MORE I GROW";
 $date = "November 27, 2021";
 $author = "Tina Rizk";
 $content = " 
-<pre>
-The more I grow
-The more I enjoy being alone
-I am not keen in fake courtesy 
+
+The more I grow<br>
+The more I enjoy being alone<br><br>
+I am not keen in fake courtesy <br>
 And dread hidden hypocrisy 
-The more I grow
-The more I learn to love myself
-To cherish my heart
-I am not perfect
-But I won't pretend to be what I am not
-The more I grow
-The more I look on the bright side of life
-Even when things look bad
-For gratitude is a treasure 
-And happiness is a choice, a pleasure 
-The more I grow
-The more I delve within, in a self discovery journey
-I started to give myself more time
-And it is with a smile,
-That I move ahead on this path, so worthwhile 
+The more I grow<br>
+The more I learn to love myself<br>
+To cherish my heart<br>
+I am not perfect<br>
+But I won't pretend to be what I am not<br>
+The more I grow<br><br>
+The more I look on the bright side of life<br>
+Even when things look bad<br>
+For gratitude is a treasure <br>
+And happiness is a choice, a pleasure <br>
+The more I grow<br>
+The more I delve within, in a self discovery journey<br>
+I started to give myself more time<br>
+And it is with a smile,<br>
+That I move ahead on this path, so worthwhile <br><br>
 T.R.
-</pre>
-<br><br>
+ 
  ";
 
 include "blog-temp.php"; 
