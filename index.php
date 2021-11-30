@@ -42,7 +42,7 @@
 		<article>
 			<section>
 				<div class="s-1"> 
-					<input type="search" class="search" placeholder="Search this site...">
+					<input type="search" class="search" placeholder="Search this site..." required>
 					<ul>
 						<h1>Categories</h1>
 						<li><a href="poems.php">Poems</a></li>
@@ -58,7 +58,7 @@
 							<p>Get all latest content delivered straight to your inbox.</p>
 							<br>
 						</div> 
-							<input type="email" name="email" placeholder="Email Address"> 
+							<input type="email" name="email" placeholder="Email Address" required> 
 							<br>
 							<button type="submit" name="submit">Subscribe</button>
 					</div>  
