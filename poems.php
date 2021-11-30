@@ -190,7 +190,7 @@
 							<div class="popular-posts">
 								<h2>BROKEN</h2>
 								<h4>11/30/2021</h4>
-								<h4>Rukayat</h4>
+								<h4>Azeez Rukayat</h4>
 								<p>
 									My head is burning out
 									Am lost in thought
