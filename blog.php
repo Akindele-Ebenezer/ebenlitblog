@@ -15,7 +15,7 @@
 			color: #fff;
 		} 
 	</style>
-	<title>BLOG</title>  
+	<title>Unique Posts</title>  
 </head>
 
 <body>
