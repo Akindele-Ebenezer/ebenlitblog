@@ -19,48 +19,47 @@ $title = "Broken";
 $date = "30/12/2021";
 $author = "Rukayat";
 $content = "
-<pre>
-'ðŸŒ¹ *Broken* ðŸŒ¹
 
-My head is burning out
-Am lost in thought
-Drenched in the dark
-Drowning in the ocean of sorrow and pain
-How could I mend a broken heart
-Wish all this could leave me
-But the pain won''t let me be
+'ðŸŒ¹ *Broken* ðŸŒ¹<br><br>
 
-My head is burning out
- l have a lot disturbing my brain
-Who cares to listen to me
-Who cares to know how I feel
-Who''s ready to carry the burden
-
-My head is burning out who can feel the flame
-Who can quench the fire
-Who cares to know my burden
-My heart is breaking
-
-My head is burning out
-Drowning in sorrows
-I thought entering the ocean will brighten up my face
-Well sometimes you''ve to dive in a problem to find solutions
-
-My head is burning out
-The more I try to pull myself together
-The more my heart ach
-The more I try to forget
-The more my head picture the pain
-
-My head is burning out
-My heart is breaking
-Should I hold on
-Should I let it go
-How can I ever get out of this
-I think am loosing it all........
-
+My head is burning out<br>
+Am lost in thought<br>
+Drenched in the dark<br>
+Drowning in the ocean of sorrow and pain<br>
+How could I mend a broken heart<br>
+Wish all this could leave me<br>
+But the pain won''t let me be<br>
+<br><br>
+My head is burning out<br>
+ l have a lot disturbing my brain<br>
+Who cares to listen to me<br>
+Who cares to know how I feel<br>
+Who''s ready to carry the burden<br>
+<br><br>
+My head is burning out who can feel the flame<br>
+Who can quench the fire<br>
+Who cares to know my burden<br>
+My heart is breaking<br>
+<br><br>
+My head is burning out<br>
+Drowning in sorrows<br>
+I thought entering the ocean will brighten up my face<br>
+Well sometimes you''ve to dive in a problem to find solutions<br>
+<br><br>
+My head is burning out<br><br>
+The more I try to pull myself together<br>
+The more my heart ach<br>
+The more I try to forget<br>
+The more my head picture the pain<br>
+<br><br>
+My head is burning out<br>
+My heart is breaking<br>
+Should I hold on<br>
+Should I let it go<br>
+How can I ever get out of this<br>
+I think am loosing it all........<br>
+<br><br>
 ðŸŒ¹ *Omolade*ðŸŒ¹'
-</pre>
 ";
 
 include "blog-temp.php"; 
