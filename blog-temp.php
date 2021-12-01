@@ -18,11 +18,6 @@ error_reporting(0);
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4278961694460844"
      crossorigin="anonymous"></script>
 
-		<script async src="https://widget.websitevoice.com/0RRjAdNNzgt9QFD8MRyLNA"></script>
-<script>
-  window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
-  wvtag('id', '0RRjAdNNzgt9QFD8MRyLNA');
-</script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Writers Crib is a community where writers who are skilled in writing articles, interesting stories, poems, blogs etc. post their content to be viewed here on this website.">
