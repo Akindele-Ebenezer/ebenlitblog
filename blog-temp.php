@@ -64,7 +64,7 @@ error_reporting(0);
 			<section class="section-2-post section-2-post-reading"> 
 				<h1><?= $title; ?></h1>
 				<p><?= $date; ?></p>
-				<p>Posted By : <?= $author; ?></p>
+				<h3>Posted By : <?= $author; ?></h3>
 				<div>
 					<?= $content; ?>
 				</div>
