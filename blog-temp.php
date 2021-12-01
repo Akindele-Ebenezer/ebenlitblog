@@ -203,7 +203,11 @@ error_reporting(0);
 				</div>
 			</section>
 		</article>
-		
+		<script async src="https://widget.websitevoice.com/0RRjAdNNzgt9QFD8MRyLNA"></script>
+<script>
+  window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
+  wvtag('id', '0RRjAdNNzgt9QFD8MRyLNA');
+</script>
 		<?php include "footer.php"; ?>
 	</main>
 </body>
