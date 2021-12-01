@@ -28,7 +28,7 @@ I snuck out from the compound, glancing sideways to be sure nobody was in sight.
 <br>
 The moment I was out of sight, I whistled and someone threw me a black jacket which I wore with speed.
 <br>
-"You can come out now, chickenhearted baby", Lizzy mocked and I rolled my eyes, taking the cigarette from her.
+'You can come out now, chickenhearted baby', Lizzy mocked and I rolled my eyes, taking the cigarette from her.
 <br>
 'What's up?' I mumbled, catching the lighter.
 <br>
