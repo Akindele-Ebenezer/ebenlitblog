@@ -1,7 +1,7 @@
 
 	<style>
                 .comment-section,
-                .comment-section > p,
+                .comment-section ~ p,
                 h3 {
                         display: none;
                 }
