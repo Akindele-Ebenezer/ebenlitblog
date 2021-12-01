@@ -1,5 +1,9 @@
 
 	<style>
+                h3 {
+                        display: none;
+                }
+
 		#header-2-wrapper li:nth-child(3) { 
 			background: var(--blue); 
 		}
