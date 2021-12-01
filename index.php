@@ -68,6 +68,28 @@
 				<h1>Latest Posts </h1>
 					<div>
 						<div class="popular-posts-wrapper">
+							<div class="popular-posts-img" style="background: url(images/chator3.jpg);
+																background-size: cover;
+																background-position: center;
+																width: 20rem;
+																height: 15rem;">
+								<img src="images/chator3.jpg">
+							</div>
+							<div class="popular-posts">
+								<h2>Nobody told me</h2>
+								<h4>12/01/2021</h4>
+								<h4>Chator Peace</h4>
+								<p>  
+								 I snuck out from the compound, glancing sideways to be sure nobody was in sight. 
+								 The moment I was out of sight, I whistled and someone threw me a black jacket which I wore with speed. 
+								 "You can come out now, chickenhearted baby", Lizzy mocked and I rolled my eyes, taking the cigarette from her. 
+								 "What's up?" I mumbled, catching the lighter. 
+								 ...
+								<p>
+								<a href="chator-3.php">Continue reading --></a></p>
+							</div>
+						</div>
+						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/rukayat.jpg);
 																background-size: cover;
 																background-position: center;
