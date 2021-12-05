@@ -42,10 +42,10 @@
 					<h2>Fill out the form below to learn more!</h2>
 				</div>
 				<div> 
-					<input type="text" name="first_name" placeholder="First Name"> 
-					<input type="text" name="last_name" placeholder="Last Name"> <br>
-					<input type="email" name="email" placeholder="Email"> <br>
-					<textarea name="contact_message" placeholder="Write your message"></textarea> <br>
+					<input type="text" name="first_name" placeholder="First Name" required> 
+					<input type="text" name="last_name" placeholder="Last Name" required> <br>
+					<input type="email" name="email" placeholder="Email" required> <br>
+					<textarea name="contact_message" placeholder="Write your message" required></textarea> <br>
 					<button type="submit" name="submit">Submit</button>
 				</div>
 			</form>
