@@ -68,6 +68,31 @@
 				<h1>Latest Posts </h1>
 					<div>
 						<div class="popular-posts-wrapper">
+							<div class="popular-posts-img" style="background: url(images/samuel-j1.jpg);
+																background-size: contain;
+																background-position: center;
+																width: 20rem;
+																height: 15rem;">
+								<img src="images/samuel-j1.jpg">
+							</div>
+							<div class="popular-posts">
+								<h2>THE POETIC WARLORD</h2>
+								<h4>12/05/2021</h4>
+								<h4>Samuel Jeremiah</h4>
+								<p>  
+								 I am a poet
+								I carve out the poetic art,
+								I perform the best writing act,
+								I inscribe fiery craft.
+								I sculpture my words,
+								I master the poetic inking sword.
+								Masterpiece I create 
+								 ...
+								<p>
+								<a href="samuel-jeremiah.php">Continue reading --></a></p>
+							</div>
+						</div>
+						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/chator3.jpg);
 																background-size: contain;
 																background-position: center;
