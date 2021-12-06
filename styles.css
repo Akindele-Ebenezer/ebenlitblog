@@ -645,6 +645,7 @@ strong {
 	}
 
 	footer + p {
+		background: #fff;
 		position: relative;
 		z-index: 100;
 	}
