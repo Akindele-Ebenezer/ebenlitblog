@@ -639,10 +639,15 @@ strong {
 		height: 60vh;
 		overflow-y: scroll;
 	}
-		footer {
-			position: relative;
-			z-index: 10;			
-		}
+	footer {
+		position: relative;
+		z-index: 10;			
+	}
+
+	footer + p {
+		position: relative;
+		z-index: 100;
+	}
 	
 		section:first-child {
 		position: relative;
