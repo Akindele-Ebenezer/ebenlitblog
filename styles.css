@@ -655,8 +655,11 @@ strong {
 		position: relative;
 	}
 	
-		.s-1 {
+		section:first-child .s-1 {
 		padding-left: 3.5rem;
+	}
+	
+		.s-1 {
 		position: fixed;
 		width: 18rem;
 		top: 10rem;
