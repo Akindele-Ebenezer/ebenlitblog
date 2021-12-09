@@ -30,7 +30,7 @@
 					<ul>
 						<h1>Categories</h1>
 						<li><a href="poems.php">Poems</a></li>
-						<li>Articles</li>
+						<li><a href="articles.php">Articles</a></li>
 						<li><a href="interesting-stories.php">Interesting Stories</a></li>
 						<li><a href="technology.php">Technology</a></li>			
 					</ul>
