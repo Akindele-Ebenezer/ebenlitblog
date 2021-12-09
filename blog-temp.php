@@ -25,8 +25,8 @@ error_reporting(0);
 	<link rel="icon" href="images/company-logo.PNG">
 	<link rel="stylesheet" href="styles.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500&display=swap" rel="stylesheet">
 	<title><?= $author . "'s POST"; ?></title> 
 </head>
 
@@ -42,7 +42,7 @@ error_reporting(0);
 					<ul>
 						<h2>Categories</h2>
 						<li><a href="poems.php">Poems</a></li>
-						<li>Articles</li>
+						<li><a href="articles.php">Articles</a></li>
 						<li><a href="interesting-stories.php">Interesting Stories</a></li>
 						<li><a href="technology.php">Technology</a></li>			
 					</ul>
