@@ -35,13 +35,18 @@
 						<li><a href="technology.php">Technology</a></li>			
 					</ul>
 				</div>
-				<div class="s-1">
-					<h1>Follow by Email</h1>
-					<p>Get all latest content delivered straight to your inbox.</p>
-					<br>
-
-					<input type="email" name="email" placeholder="Email Address">
-				</div>  
+				<form action="subscribed.php" method="post">
+					<div class="s-1">
+						<div>
+							<h1>Follow by Email</h1>
+							<p>Get all latest content delivered straight to your inbox.</p>
+							<br>
+						</div> 
+							<input type="email" name="email" placeholder="Email Address" required> 
+							<br>
+							<button type="submit" name="submit">Subscribe</button>
+					</div>  
+				</form>
 			</section>
 			<section id="main-section-2">
 				<h1>Unique Posts</h1>
