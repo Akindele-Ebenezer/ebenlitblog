@@ -16,7 +16,7 @@
 			background: var(--blue); 
 		}
 		
-		#header-2-wrapper li:first-child a { 
+		#header-2-wrapper li:last-child a { 
 			color: #fff; 
 		}
 	</style>
