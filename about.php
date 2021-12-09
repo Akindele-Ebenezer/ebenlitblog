@@ -13,6 +13,11 @@
 		#header-2-wrapper li:nth-child(3) a { 
 			color: #fff; 
 		}
+		@media (min-width: 1883px) {
+			section:nth-child(2) {
+				margin-bottom: 27rem;	
+			}
+		}
 	</style>
 <?php 
 $title = "ABOUT";
