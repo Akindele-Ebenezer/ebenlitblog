@@ -44,7 +44,7 @@
 	<ul>
 			<li><a href="poems.php">Poems</a></li>
 			<li><a href="articles.php">Articles</a></li>
-			<li><a href="interesting-stories.php">Interesting Stories</a></li>
+			<li><a href="interesting-stories.php">Stories</a></li>
 			<li><a href="technology.php">Technology</a></li> 
 	</ul>
 </div>
