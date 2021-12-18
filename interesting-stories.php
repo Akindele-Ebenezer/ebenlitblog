@@ -232,6 +232,34 @@
 								<p>
 								<a href="favour-ekenna.php">Continue reading --></a></p>
 							</div>
+							
+						<div class="popular-posts-wrapper">
+							<div class="popular-posts-img" style="background: url(images/chator4.jpg);
+																background-size: contain;
+																background-position: center;
+																width: 20rem;
+																height: 15rem;">
+								<img src="images/chator4.jpg">
+							</div>
+							<div class="popular-posts">
+								<h2>MAMA IS SO CLUELESSâ€¦</h2>
+								<h4>12/17/2021</h4>
+								<h4>Chator Peace</h4>
+								<p>  
+								 "Didn't I tell you to stop throwing tantrums?"
+ 
+								 "Didn't I warn you of the consequences of what would happen if you failed?"
+
+								 She twisted my ears and I screamed in pain.
+
+								 "After all the money I waste yearly, you still bring trash as results to see, right?"
+
+								 I shook my head negatively.  
+								 ...
+								<p>
+								<a href="chator-4.php">Continue reading --></a></p>
+							</div>
+						</div>
 						</div>
 				
 			</section>
