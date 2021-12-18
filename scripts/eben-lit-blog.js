@@ -2,13 +2,16 @@ const headerSmScreenLinks = document.querySelector(".header-sm-screen-links");
 
 const navImg = document.querySelector(".header-sm-screen-top-nav div img:last-child"); 
 
+const smScreenHeaderSecondary = document.querySelector(".sm-screen-header ~ div");
+
 const toggle = function() {
 	headerSmScreenLinks.classList.toggle("block");
+	smScreenHeaderSecondary.classList.toggle("none");
 }
 
 navImg.addEventListener("click", toggle);
 
- //console.log(navImg);
+//console.log(smScreenHeaderSecondary);
 const dropDown = document.querySelector(".drop-down");
 const dropDown2 = document.querySelector(".drop-down-2");
 
