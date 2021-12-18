@@ -40,6 +40,7 @@
 	</div>				
 	</div>
 </header>
+		<!--
 <div>
 	<ul>
 			<li><a href="poems.php">Poems</a></li>
@@ -48,3 +49,4 @@
 			<li><a href="technology.php">Technology</a></li> 
 	</ul>
 </div>
+-->
