@@ -31,7 +31,7 @@
 
 <body>
 	<main>
-		<?php include "header-sm-screen.php"; ?>
+		<!-- <?php include "header-sm-screen.php"; ?> -->
 	
 		<?php include "header.php"; ?>
 		
