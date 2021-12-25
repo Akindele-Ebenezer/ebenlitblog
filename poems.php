@@ -141,6 +141,29 @@
 							</div>
 						</div>
 						<div class="popular-posts-wrapper">
+							<div class="popular-posts-img" style="background: url(images/ruth-sunny.jpg);
+																background-size: contain;
+																background-position: center;
+																width: 20rem;
+																height: 15rem;">
+								<img src="images/chator4.jpg">
+							</div>
+							<div class="popular-posts">
+								<h2>DON'T CALL ME A POET</h2>
+								<h4>12/25/2021</h4>
+								<h4>Ruth Sunny</h4>
+								<p>  
+								 Don't call me a poet
+								Cause I've saved many lives indeed
+								In my poem I've given the recipe to suicide and frustrating disease
+
+								Don't call me a poet
+								My motivating words you read...
+								<p>
+								<a href="ruth-sunny.php">Continue reading --></a></p>
+							</div>
+						</div>
+						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/sunita.jpg);
 																background-size: cover;
 																background-position: center;
