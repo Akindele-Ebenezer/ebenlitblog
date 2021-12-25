@@ -73,7 +73,7 @@
 																background-position: center;
 																width: 20rem;
 																height: 15rem;">
-								<img src="images/chator4.jpg">
+								<img src="images/ruth-sunny.jpg">
 							</div>
 							<div class="popular-posts">
 								<h2>DON'T CALL ME A POET</h2>
