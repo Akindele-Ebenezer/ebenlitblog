@@ -6,7 +6,7 @@ if(isset($_POST["submit"])) {
 	$comment = $_POST["comment"];
 	$date = $_POST["date"];
 
-	$sql_1 = "INSERT INTO favour_ekenna_comments (first_name, last_name, comment, date) VALUES ('$first_name', '$last_name', '$comment', now());";
+	$sql_1 = "INSERT INTO favour_ekenna_comments (first_name, last_name, message, date) VALUES ('$first_name', '$last_name', '$comment', now());";
 	$query = mysqli_query($conn, $sql_1); 
 }
 
