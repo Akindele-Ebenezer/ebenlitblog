@@ -69,7 +69,7 @@
 					<div>
 						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/chator5.jpg);
-																background-size: contain;
+																background-size: cover;
 																background-position: center;
 																width: 20rem;
 																height: 15rem;">
