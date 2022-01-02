@@ -51,7 +51,7 @@ You staggered to the room, hearing hushed voices. You're so weak to knock so you
 <br>
 You jumped in a frenzy and rushed outside. Blessing tilts his head to look at you and his expression changes. You knew something changed about you also. He held your hand and walked inside. Your family is in the sitting room and they're happy. <br><br>
 
-"Finally, he's gone and there\'ll be nobody to stand against us", your mom smirked. <br><br>
+\"Finally, he's gone and there\'ll be nobody to stand against us\", your mom smirked. <br><br>
 
 They toasted to your death and clinked glasses.<br><br>
 
