@@ -68,6 +68,27 @@
 				<h1>Latest Posts </h1>
 					<div>
 						<div class="popular-posts-wrapper">
+							<div class="popular-posts-img" style="background: url(images/chator5.jpg);
+																background-size: contain;
+																background-position: center;
+																width: 20rem;
+																height: 15rem;">
+								<img src="images/chator5.jpg">
+							</div>
+							<div class="popular-posts">
+								<h2>A DAY YOU SHOULDN'T FORGET</h2>
+								<h4>01/02/2022</h4>
+								<h4>Chator Peace</h4>
+								<p>  Let's say you're a young adult, an introvert and your name is Peace.
+
+								    You're currently in FESTAC, Lagos state. Yesterday, at 12am. You chanted Happy New Year in church. 
+
+								    You jumped high, shot bangers and rockets with your friends, male and female. You reeled of happiness...
+								<p>
+								<a href="chator5.php">Continue reading --></a></p>
+							</div>
+						</div>
+						<div class="popular-posts-wrapper">
 							<div class="popular-posts-img" style="background: url(images/ruth-sunny.jpg);
 																background-size: contain;
 																background-position: center;
