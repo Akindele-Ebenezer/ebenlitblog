@@ -85,7 +85,7 @@
 
 								    You jumped high, shot bangers and rockets with your friends, male and female. You reeled of happiness...
 								<p>
-								<a href="chator5.php">Continue reading --></a></p>
+								<a href="chator-5.php">Continue reading --></a></p>
 							</div>
 						</div>
 						<div class="popular-posts-wrapper">
