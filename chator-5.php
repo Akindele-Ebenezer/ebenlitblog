@@ -51,26 +51,26 @@ You staggered to the room, hearing hushed voices. You're so weak to knock so you
 <br>
 You jumped in a frenzy and rushed outside. Blessing tilts his head to look at you and his expression changes. You knew something changed about you also. He held your hand and walked inside. Your family is in the sitting room and they're happy. <br><br>
 
-\"Finally, he's gone and there\'ll be nobody to stand against us\", your mom smirked. <br><br>
+\"Finally, he's gone and there'll be nobody to stand against us\", your mom smirked. <br><br>
 
 They toasted to your death and clinked glasses.<br><br>
 
-They couldn\'t see you or Blessing. <br><br>
+They couldn't see you or Blessing. <br><br>
 
 You run out to meet your friends coming in. Talking happily about your death.<br><br>
 
-One is happy you won\'t be more popular, the other overjoyed because of your crush. You try to tell them you know but your hand just floats.<br><br>
+One is happy you won't be more popular, the other overjoyed because of your crush. You try to tell them you know but your hand just floats.<br><br>
 
-Now, you know why Blessing is an introvert but knows your friend\'s intention. Because he\'s dead and it was only you who saw him. <br><br>
+Now, you know why Blessing is an introvert but knows your friend's intention. Because he's dead and it was only you who saw him. <br><br>
 
-You remembered he warned you about being too trusting and never drink what you didn\'t uncapped but you were stubborn anyways.<br><br>
+You remembered he warned you about being too trusting and never drink what you didn't uncapped but you were stubborn anyways.<br><br>
 
-You remember how passers-by gave you strange looks whenever you walked with Blessing, whispering but you didn\'t care.<br><br>
+You remember how passers-by gave you strange looks whenever you walked with Blessing, whispering but you didn't care.<br><br>
 
 <br>
-Today is Sunday and your family is wailing, your friends are crying a river because they haven\'t seen you since yesterday. Now, you look at them with disgust. <br><br>
+Today is Sunday and your family is wailing, your friends are crying a river because they haven't seen you since yesterday. Now, you look at them with disgust. <br><br>
 
-It was your friends who first poisoned you. Remember that malt Nelson gave you just after chanting, it was a poisoned drink. Your parents\' wine was just to ensure a job well done. <br><br>
+It was your friends who first poisoned you. Remember that malt Nelson gave you just after chanting, it was a poisoned drink. Your parents' wine was just to ensure a job well done. <br><br>
 
 Why did they kill you?<br><br>
 
@@ -82,18 +82,18 @@ That was them taking over the properties and you saying you had a terminal disea
 
 Why does Uncle Tony love you more? He once had a sexual encounter with your mom and you were his biological child.<br><br>
 
-That\'s the same reason your family hates you too.<br><br>
+That's the same reason your family hates you too.<br><br>
 
 <br> 
-You want revenge, but you can\'t. Blessing hasn\'t told you it was him Uncle Tony used for rituals. He was Uncle Tony\'s younger brother. <br><br>
+You want revenge, but you can't. Blessing hasn't told you it was him Uncle Tony used for rituals. He was Uncle Tony's younger brother. <br><br>
 
-Uncle Tony is just your father\'s friend and not his brother as they claimed before he was poisoned and killed by a car.<br><br>
+Uncle Tony is just your father's friend and not his brother as they claimed before he was poisoned and killed by a car.<br><br>
 
 <br> 
-Your ghost somehow stumbled upon this post and you\'re shocked, but you can\'t cry becauseâ€¦<br><br>
+Your ghost somehow stumbled upon this post and you're shocked, but you can't cry becauseâ€¦<br><br>
 
 <br><br>
-GHOSTS DON\'T CRY...<br><br>
+GHOSTS DON'T CRY...<br><br>
 
 
 <br><br>
